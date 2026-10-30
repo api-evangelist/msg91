@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MSG91 is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://msg91.com
+MSG91 provides a comprehensive cloud communications platform offering SMS, voice, email, WhatsApp, RCS, and OTP services. It enables businesses to engage customers across multiple channels via robust APIs, supporting dynamic messaging, campaign automation, and contact management. With global reach and high volume handling, MSG91 serves over 30,000 businesses worldwide, delivering reliable, scalable communication solutions for enterprises of all sizes.
+
+**Areas:** Communications · Cloud · Messaging · SMS
+
+## MSG91 on APIs.io
+
+Everything profiled for MSG91 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/msg91/](https://apis.io/providers/msg91/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MSG91 API](https://apis.io/apis/msg91/msg91-api/) — Messaging API providing SMS, voice, email, WhatsApp, and OTP services.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Msg91 Domain Security](https://apis.io/security/msg91/msg91-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Msg91 Plans Pricing](https://apis.io/plans/msg91/msg91-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://msg91.com)
+- [Documentation](https://docs.msg91.com)
+- [Getting started](https://msg91.com/signup)
+- [API reference](https://docs.msg91.com/overview)
+- [Pricing](https://msg91.com/pricing/hello)
+- [Support](https://msg91.com/contact-us)
+- [Terms of service](https://msg91.com/terms-of-use)
+- [Privacy policy](https://msg91.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 31.4** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 76.3 |
+
+**Agent readiness 3.9** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.7** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/msg91/](https://apis.io/providers/msg91/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MSG91: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/msg91/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
